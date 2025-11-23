@@ -15,6 +15,14 @@ Este script en bash permite escanear interfaces de red utilizando arp-scan, iden
 # USO
 
 <pre>
-  '''bash
   git clone https://github.com/wvverez/Arp-scan-OS-detector.git
+</pre>
+<pre>
+  cd Arp-scan-OS-detector
+</pre>
+<pre>
+  chmod +x arpscan.sh
+</pre>
+<pre>
+  ./arpscan.sh
 </pre>
